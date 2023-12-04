@@ -3,7 +3,9 @@
 In this readme file, I will provide a report on the following:
 
 1. Integrating RESTful logic  into our web service, along with the necessary .
+
 2. The deployment of the web service.
+
 3. Testing the web service using OpenAPI (Swagger) to ensure efficient and user-friendly API testing.
 
 
