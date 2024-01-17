@@ -71,3 +71,8 @@
 #### 4. In the following gif, i activated the security in the customer service and i configured the login via google so each time i try to access the customer service i will be redirected to the login page and i can login with my google account:
 ![9 auth with google](https://github.com/Yahya-rabii/JEE/assets/92509001/832d9cba-c9b9-4354-97c8-29b97713d654)
 
+#### In the following gif, i Authenticated with keycloak through a thyemeleaf client, the gif shows that when authenticating with an admin account, we can access the customer service and we can see the list of customers, but when we authenticate with a user account, we can't access the customer service and we get an error message:
+
+
+
+#### In the following gif, i Authenticated with keycloak through a angular client using our admin account, the gif shows that we can access the inventory service and we can see the list of products

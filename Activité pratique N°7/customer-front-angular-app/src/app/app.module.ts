@@ -13,8 +13,8 @@ function initializeKeycloak(keycloak: KeycloakService) {
     keycloak.init({
       config: {
         url: 'http://localhost:8080',
-        realm: 'sdia-realm',
-        clientId: 'glsid-bdcc-customer-client'
+        realm: 'wallet-realm',
+        clientId: 'wallet-angular-client'
       },
       initOptions: {
         onLoad: 'check-sso',
