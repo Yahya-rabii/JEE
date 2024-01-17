@@ -73,6 +73,11 @@
 
 #### In the following gif, i Authenticated with keycloak through a thyemeleaf client, the gif shows that when authenticating with an admin account, we can access the customer service and we can see the list of customers, but when we authenticate with a user account, we can't access the customer service and we get an error message:
 
+![Untitled Project](https://github.com/Yahya-rabii/JEE/assets/92509001/cd629b56-3143-46fb-87d7-9f7fbfb98e05)
 
 
 #### In the following gif, i Authenticated with keycloak through a angular client using our admin account, the gif shows that we can access the inventory service and we can see the list of products
+![angular](https://github.com/Yahya-rabii/JEE/assets/92509001/56023d40-f9d3-44d7-ad60-672e5880c7dc)
+
+
+
